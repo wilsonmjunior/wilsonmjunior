@@ -17,4 +17,7 @@ I am currently coding projects with the following technologies
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-%238c8c8c?style=for-the-badge&logo=typescript&logoColor=%23fff&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 [![Postgres Badge](https://img.shields.io/badge/-PostgreSQL-%238c8c8c?style=for-the-badge&logo=postgreSQL&logoColor=%23fff&link=https://www.postgresql.org/)](https://www.postgresql.org/)
 
+![Html Badge](https://img.shields.io/badge/-Html-%238c8c8c?style=for-the-badge&logo=html5&logoColor=%23fff)
+![Css Badge](https://img.shields.io/badge/-Css-%238c8c8c?style=for-the-badge&logo=css3&logoColor=%23fff)
+
 Looking for an opportunity as a junior dev
