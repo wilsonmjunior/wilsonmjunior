@@ -20,4 +20,7 @@ I am currently coding projects with the following technologies
 ![Html Badge](https://img.shields.io/badge/-Html-%238c8c8c?style=for-the-badge&logo=html5&logoColor=%23fff)
 ![Css Badge](https://img.shields.io/badge/-Css-%238c8c8c?style=for-the-badge&logo=css3&logoColor=%23fff)
 
+
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonmjunior)](https://github.com/rsaz/github-readme-stats)
+
 Front-End Developer at [MedPass](https://medpass.com.br)
