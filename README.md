@@ -26,6 +26,8 @@ I am currently coding projects with the following technologies
 ![Swift Badge](https://img.shields.io/badge/-Swift-%238c8c8c?style=for-the-badge&logo=swift&logoColor=%23fff) 
 
 
+## Languages
+
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonmjunior)](https://github.com/rsaz/github-readme-stats)
 
 Front-End Developer at [MedPass](https://medpass.com.br)
