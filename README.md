@@ -20,7 +20,8 @@ I am currently coding projects with the following technologies
 ![Html Badge](https://img.shields.io/badge/-Html-%238c8c8c?style=for-the-badge&logo=html5&logoColor=%23fff)
 ![Css Badge](https://img.shields.io/badge/-Css-%238c8c8c?style=for-the-badge&logo=css3&logoColor=%23fff)
 
-Studying 
+## Studying 
+
 ![Flutter Badge](https://img.shields.io/badge/-Flutter-%238c8c8c?style=for-the-badge&logo=flutter&logoColor=%23fff) 
 ![Swift Badge](https://img.shields.io/badge/-Swift-%238c8c8c?style=for-the-badge&logo=swift&logoColor=%23fff) 
 
