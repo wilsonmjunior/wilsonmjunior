@@ -26,9 +26,12 @@ I am currently coding projects with the following technologies
 ![Swift Badge](https://img.shields.io/badge/-Swift-%238c8c8c?style=for-the-badge&logo=swift&logoColor=%23fff) 
 
 
-## 
+<div style="align: right"> your-text-here </div>
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonmjunior)](https://github.com/rsaz/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=wilsonmjunior&show_icons=true&theme=dark" />
+  <img style="text-align: right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonmjunior&langs_count=8&layout=compact"/>
+</div>
 
 
 Front-End Developer at [MedPass](https://medpass.com.br)
