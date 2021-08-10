@@ -30,4 +30,6 @@ I am currently coding projects with the following technologies
 
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonmjunior)](https://github.com/rsaz/github-readme-stats)
 
+![Snake animation](https://github.com/wilsonmjunior/wilsonmjunior/blob/output/github-contribution-grid-snake.svg)
+
 Front-End Developer at [MedPass](https://medpass.com.br)
