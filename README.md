@@ -26,11 +26,9 @@ I am currently coding projects with the following technologies
 ![Swift Badge](https://img.shields.io/badge/-Swift-%238c8c8c?style=for-the-badge&logo=swift&logoColor=%23fff) 
 
 
-<div style="align: right"> your-text-here </div>
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=wilsonmjunior&show_icons=true&theme=dark" />
-  <img style="text-align: right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonmjunior&langs_count=8&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonmjunior&langs_count=8&layout=compact&theme=dark"/>
 </div>
 
 
