@@ -32,4 +32,4 @@ I am currently coding projects with the following technologies
 </div>
 
 
-Front-End Developer at [MedPass](https://medpass.com.br)
+Front-End Developer at [Merx](https://merxagri.com.br) O Agro é top 
