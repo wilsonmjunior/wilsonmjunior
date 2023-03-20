@@ -31,7 +31,4 @@ I am currently coding projects with the following technologies
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonmjunior&langs_count=8&layout=compact&theme=dark"/>
 </div>
 
-
-![image](https://user-images.githubusercontent.com/11083214/226382217-33314868-f8e5-486c-a609-29afb8389525.png)
-
 Front-End Developer at [Merx](https://merxagri.com.br) O Agro é top 
