@@ -1,9 +1,14 @@
 # Wilson Matokanovic Junior
 
-[![Linkedin Badge](https://img.shields.io/badge/-Wilson%20Matokanovic%20Junior-blue?style=flat-square&logo=Linkedin&logoColor=%23fff&link=https://www.linkedin.com/in/wilsonmatokanovic/)](https://www.linkedin.com/in/wilsonmatokanovic/)
-[![Gmail Badge](https://img.shields.io/badge/-wilsonmjuniorx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilsonmjuniorx@gmail.com)](mailto:wilsonmjuniorx@gmail.com)
+<div id="header" align="center">
+  <img src="https://github.com/wilsonmjunior/wilsonmjunior/assets/11083214/4a80a679-c05e-4bac-bc75-c2340e1e44d8" width="400"/>
+  <br /><br />
 
-## About me
+  [![Linkedin Badge](https://img.shields.io/badge/-Wilson%20Matokanovic%20Junior-blue?style=flat-square&logo=Linkedin&logoColor=%23fff&link=https://www.linkedin.com/in/wilsonmatokanovic/)](https://www.linkedin.com/in/wilsonmatokanovic/)
+  [![Gmail Badge](https://img.shields.io/badge/-wilsonmjuniorx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilsonmjuniorx@gmail.com)](mailto:wilsonmjuniorx@gmail.com)
+</div>
+
+## 🧔 About me
 Passionate about technology, curious and always looking for new ideas and knowledge <br/>
 Student at rocketseat 🚀🚀
 
@@ -21,7 +26,7 @@ I am currently coding projects with the following technologies
 ![Html Badge](https://img.shields.io/badge/-Html-%238c8c8c?style=for-the-badge&logo=html5&logoColor=%23fff)
 ![Css Badge](https://img.shields.io/badge/-Css-%238c8c8c?style=for-the-badge&logo=css3&logoColor=%23fff)
 
-## Studying 
+## 📚 Studying 
 
 ![Swift Badge](https://img.shields.io/badge/-Swift-%238c8c8c?style=for-the-badge&logo=swift&logoColor=%23fff) 
 
